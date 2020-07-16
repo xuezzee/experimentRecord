@@ -39,17 +39,16 @@
   - averge reward: 149
 - Stage two & option one(MAAC):
   - convergence 
-  ![avatar](figure/ac_rule.png)
+  ![avatar](figure/ac_rule2.png)
   - averge reward
-    - test with rule: 98.5
-    - test without rule: 90.5
+
 - Baseline: MMAC 
 
   centralized critic & decentralized actor; 
   
   update actor with individual Q without constrain of socail law.
   - convergence 
-  ![avatar](figure/baseline.png)
+  ![avatar](figure/base2.png)
   - averge reward: -532
 
 
