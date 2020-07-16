@@ -49,7 +49,7 @@
   update actor with individual Q without constrain of socail law.
   - convergence 
   ![avatar](figure/base2.png)
-  - averge reward: -532
+  - averge reward: 
 
 
 
