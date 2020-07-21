@@ -35,24 +35,30 @@
 ### Result
 - Stage one
   - convergence 
-  ![avatar](figure/stage1.png)
-  - averge reward: 149
+  ![avatar](figure/stage1_v2.png)
+  - averge reward: 
 - Stage two & option one(MAAC):
   - convergence 
   ![avatar](figure/ac_rule2.png)
   - averge reward
 
-- Baseline: MMAC 
+- Baseline: MAAC 
 
   centralized critic & decentralized actor; 
   
-  update actor with individual Q without constrain of socail law.
+  update actor with individual Q without constrain of social law.
   - convergence 
   ![avatar](figure/base2.png)
   - averge reward: 
 
+- stage two for manual rules:
 
+  Prohibited actions: clockwise rotation
+,Anticlockwise rotation,fire beam
 
+  - convergence 
+  ![avatar](figure/manual_rule.jpg)
+  - averge reward: 
 
 
 
