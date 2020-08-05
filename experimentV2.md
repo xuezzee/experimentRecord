@@ -51,8 +51,16 @@ iac: independent ac
 iac_law: iac with social law agents
 
 ### Experiment on cleanup
+MAAC:
+
+![image](https://github.com/xuezzee/endtoend_social_pg/blob/master/picture/MAAC_on_cleanup.png?raw=true)
 
 
 ### Experiment on escalator
+
+### Experiment on Coin Game
+IAC summed reward:
+
+![image](https://github.com/xuezzee/endtoend_social_pg/blob/master/picture/coin_game.png?raw=true)
 
 
